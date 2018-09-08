@@ -1,2 +1,2 @@
-/MvcApp
-/WebAPICRUD
+/MvcApp/
+/WebAPICRUD/
